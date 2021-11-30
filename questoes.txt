@@ -1,0 +1,3 @@
+sao ramificaçoes do projeto servem para separar grandes modificaçoes e evitam criar problemas no codigo principal
+
+uniao de duas branches
