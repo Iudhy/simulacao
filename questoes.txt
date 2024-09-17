@@ -1,0 +1,8 @@
+<<<<<<< Updated upstream
+Oque é uma Branch?
+=======
+
+sao ramificaçoes do projeto servem para separar grandes modificaçoes e evitam criar problemas no codigo principal
+>>>>>>> Stashed changes
+
+Oque é merge?
